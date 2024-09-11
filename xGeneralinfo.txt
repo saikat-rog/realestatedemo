@@ -1,0 +1,4 @@
+total padding-x for md+ is: 20
+total padding-x for md-: 10
+Large font: Caladea
+Normal font: default
